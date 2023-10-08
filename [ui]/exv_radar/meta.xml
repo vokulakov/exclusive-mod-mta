@@ -1,0 +1,33 @@
+<meta>
+	<min_mta_version server="1.5.5-0.00000" client="1.5.5-0.00000" />
+	<oop>true</oop>
+	
+	<file src="assets/world.jpg" />
+
+	<file src="assets/blips/0.png"/>
+	<file src="assets/blips/+1.png"/>
+	<file src="assets/blips/-1.png"/>
+	<file src="assets/blips/2.png"/>
+	<file src="assets/blips/4.png"/>
+	<file src="assets/blips/11.png"/>
+	<file src="assets/blips/12.png"/>
+	<file src="assets/blips/18.png"/>
+	<file src="assets/blips/22.png"/>
+	<file src="assets/blips/25.png"/>
+	<file src="assets/blips/27.png"/>
+	<file src="assets/blips/31.png"/>
+	<file src="assets/blips/32.png"/>
+	<file src="assets/blips/41.png"/>
+	<file src="assets/blips/43.png"/>
+	<file src="assets/blips/44.png"/>
+	<file src="assets/blips/45.png"/>
+	<file src="assets/blips/47.png"/>
+	<file src="assets/blips/51.png"/>
+	<file src="assets/blips/52.png"/>
+	<file src="assets/blips/55.png"/>
+	<file src="assets/blips/56.png"/>
+	<file src="assets/blips/57.png"/>
+	<file src="assets/blips/63.png"/>
+
+	<script type="client" src="main.lua" cache="false" />
+</meta>

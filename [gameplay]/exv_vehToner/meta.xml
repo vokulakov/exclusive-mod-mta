@@ -1,0 +1,24 @@
+<meta>
+	<min_mta_version client="1.5" server="1.5" />
+	<oop>true</oop>
+	
+	<!-- ASSETS -->
+	<file src="assets/fx/ColorRamp01.png" />
+	<file src="assets/fx/smallnoise3d.dds" />
+
+	<file src="assets/colorpicker/cursor.png" />
+  	<file src="assets/colorpicker/h.png" />
+  	<file src="assets/colorpicker/sv.png" />
+  	<file src="assets/colorpicker/blank.png" />
+  	<file src="assets/colorpicker/alpha.png" />
+
+	<script type='shared' src='assets/shared.lua' cache='false' />
+
+	<script type='client' src='client/colorpicker.lua' cache='false' />
+	<script type='client' src='client/camera.lua' cache='false' />
+	<script type='client' src='client/garage_c.lua' cache='false' />
+	<script type='client' src='client/toner_fx.lua' cache='false' />
+	<script type='client' src='client/main.lua' cache='false' />
+
+	<script type='server' src='server/garage_s.lua' />
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<oop>true</oop>
+
+
+	<script type="shared" src="assets/shared.lua" cache="false" />
+
+	<script type="client" src="client/gui.lua" cache="false" />
+
+	<script type="client" src="client/client.lua" cache="false" />
+	<script type="server" src="server/server.lua" />
+
+	<export type="server" function="getVehicleOnLoad" />
+	<export type="server" function="takeVehicleBox" />
+</meta>

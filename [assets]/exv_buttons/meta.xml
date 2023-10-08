@@ -1,0 +1,53 @@
+<meta>
+	<download_priority_group>90</download_priority_group>
+	<min_mta_version client="1.5" server="1.5" />
+	<oop>true</oop>
+	
+	<script type="client" src="export.lua"/>
+
+	<export function="dxShowHelpButton" type="client" /> 
+	<export function="dxHideHelpButton" type="client" /> 
+	<export type="client" function="guiHelpButton" />
+	<!-- <export type="client" function="createRectangle"/> -->
+	<!-- <export type="client" function="setRectangleSize"/> -->
+	
+
+	<file src="assets/panel/pane.png" />
+	<file src="assets/panel/round_1.png" />
+	<file src="assets/panel/round_2.png" />
+	<file src="assets/panel/round_3.png" />
+	<file src="assets/panel/round_4.png" />
+
+	<!-- BUTTONS -->
+	<!-- <file src="assets/b_enter.png" /> -->
+	<!-- <file src="assets/b_esc.png" /> -->
+	<!-- <file src="assets/b_f10.png" /> -->
+	<!-- <file src="assets/b_f11.png" /> -->
+	<!-- <file src="assets/b_f12.png" /> -->
+	<!-- <file src="assets/b_lalt.png" /> -->
+	<!-- <file src="assets/b_ralt.png" /> -->
+	<!-- <file src="assets/b_lctrl.png" /> -->
+	<!-- <file src="assets/b_rctrl.png" /> -->
+	<!-- <file src="assets/b_lshift.png" /> -->
+	<!-- <file src="assets/b_rshift.png" /> -->
+
+	<!-- <file src="assets/b_num0.png" /> -->
+	<!-- <file src="assets/b_num1.png" /> -->
+	<!-- <file src="assets/b_num2.png" /> -->
+	<!-- <file src="assets/b_num3.png" /> -->
+	<!-- <file src="assets/b_num4.png" /> -->
+	<!-- <file src="assets/b_num5.png" /> -->
+	<!-- <file src="assets/b_num6.png" /> -->
+	<!-- <file src="assets/b_num7.png" /> -->
+	<!-- <file src="assets/b_num9.png" /> -->
+	<!-- <file src="assets/b_space.png" /> -->
+	<!-- <file src="assets/b_tab.png" /> -->
+
+	<!-- MOUSE -->
+	<file src="assets/mouse.png" />
+	<file src="assets/mouse_down.png" />
+	<file src="assets/mouse_left.png" />
+	<file src="assets/mouse_right.png" />
+	<file src="assets/mouse_up.png" />
+	<file src="assets/mouse_wheel.png" />
+</meta>

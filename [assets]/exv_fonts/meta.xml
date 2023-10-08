@@ -1,0 +1,15 @@
+<meta>
+	<download_priority_group>99</download_priority_group>
+	
+	<script type="client" src="exports.lua" cache = "false" />
+	<export type="client" function="createFont"/>
+	<export type="client" function="createFontGui"/>
+	
+	<!-- FONTS -->
+	<file src="fonts/AEROMATICS_BOLD.ttf" />
+	<file src="fonts/AEROMATICS_BOLD_ITALIC.ttf" />
+	<file src="fonts/AEROMATICS_ITALIC.ttf" />
+	<file src="fonts/Roboto-Bold.ttf" />
+	<file src="fonts/Roboto-Regular.ttf" />
+
+</meta>

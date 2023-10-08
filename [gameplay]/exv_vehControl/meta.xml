@@ -1,0 +1,11 @@
+<meta>
+	<oop>true</oop>
+	
+	<file src="dependencies.png" />
+	<script src="shared.lua" type="shared" cache="false" />
+
+	<script src="client/client.lua" type="client" cache="false" />
+	<script src="client/c_door.lua" type="client" cache="false" />
+	<script src="server/server.lua" type="server" />
+	<script src="server/s_door.lua" type="server" />
+</meta>

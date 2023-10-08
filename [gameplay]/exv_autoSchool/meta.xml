@@ -1,0 +1,9 @@
+<meta>
+
+	<file src="assets/avar_znak.png" />
+
+	<script type="shared" src="assets/shared.lua" cache="false" />
+	
+	<script type="client" src="client/license_client.lua" cache="false" />
+	<script type="server" src="server/license_server.lua" />
+</meta>

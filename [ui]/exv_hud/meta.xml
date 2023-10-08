@@ -1,0 +1,6 @@
+<meta>
+	<file src="assets/i_money.png" />
+	<file src="assets/i_time.png" />
+
+	<script type="client" src="main.lua" cache="false" />
+</meta>

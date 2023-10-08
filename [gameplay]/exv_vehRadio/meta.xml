@@ -1,0 +1,10 @@
+<meta>
+	<script src="main.lua" type="client" cache="false" />
+
+	<file src="assets/drj.png" type="client"/>
+	<file src="assets/energy.png" type="client"/>
+	<file src="assets/ep.png" type="client"/>
+	<file src="assets/pr.png" type="client"/>
+	<file src="assets/rr.png" type="client"/>
+
+</meta>

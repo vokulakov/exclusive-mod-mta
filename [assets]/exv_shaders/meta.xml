@@ -1,0 +1,24 @@
+<meta>
+	<oop>true</oop>
+	<download_priority_group>99</download_priority_group>
+	<script type="client" src="export.lua"/>
+
+	<file src="shaders/mta-helper.fx" />
+
+	<file src="shaders/blur.fx" />
+	<file src="shaders/mask3d.fx" />
+	<file src="shaders/tex_matrix.fx" />
+	<file src="shaders/blackwhite.fx" />
+	<file src="shaders/damage.fx" />
+	<file src="shaders/texreplace.fx" />
+
+	<file src="shaders/tex_toner.fx" />
+	<file src="shaders/car_refgrun.fx" />
+
+	<file src="shaders/vehPaint/car_paint.fx" />
+	<file src="shaders/vehPaint/chameleo.fx" />
+	<file src="shaders/vehPaint/gloss.fx" />
+	<file src="shaders/vehPaint/matte.fx" />
+
+	<export type="client" function="createShader"/>
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<oop>true</oop>
+	<download_priority_group>-100</download_priority_group>
+	
+	<script type="server" src="server/server.lua"/>
+	<script type="client" src="main.lua"/>
+</meta>

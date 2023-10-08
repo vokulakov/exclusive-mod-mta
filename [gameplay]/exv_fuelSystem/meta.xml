@@ -1,0 +1,10 @@
+<meta>
+	
+	<file src="assets/garageData.xml" />
+	<file src="assets/carData.xml" />
+	
+	<script type="shared" src="settings.lua" cache="false" />
+	<script type="client" src="client/client.lua" cache="false" />
+	<script type="server" src="server/server.lua" />
+
+</meta>

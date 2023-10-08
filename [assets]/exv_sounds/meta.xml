@@ -1,0 +1,37 @@
+<meta>
+	<oop>true</oop>
+	<download_priority_group>99</download_priority_group>
+
+	<file src="assets/systems/error.wav" />
+	<file src="assets/systems/notify.mp3" />
+	<file src="assets/systems/sell.wav" />
+	<file src="assets/systems/tinnitus.ogg" />
+	<file src="assets/systems/heart.mp3" />
+	<file src="assets/systems/sound_mission.mp3" />
+
+	<file src="assets/systems/vehPaint/paint.mp3" />
+	<file src="assets/systems/vehPaint/paint_bg.wav" />
+	
+	<file src="assets/systems/jobLoader/box_up.mp3" />
+	<file src="assets/systems/jobLoader/box_down.mp3" />
+
+	<file src="assets/vehicles/belt-alarm.wav" />
+	<file src="assets/vehicles/belt-in.mp3" />
+	<file src="assets/vehicles/belt-out.mp3" />
+	<file src="assets/vehicles/doorlock.mp3" />
+	<file src="assets/vehicles/lightswitch.mp3" />
+	<file src="assets/vehicles/radio_tune.mp3" />
+	<file src="assets/vehicles/starter_car.mp3" />
+
+	<file src="assets/vehicles/signal/sound_a.wav" />
+	<file src="assets/vehicles/signal/sound_b.wav" />
+	<file src="assets/vehicles/signal/sound_c.wav" />
+	<file src="assets/vehicles/signal/sound_d.wav" />
+	<file src="assets/vehicles/signal/sound_e.wav" />
+	<file src="assets/vehicles/signal/sound_escooter.wav" />
+	
+	<script type="client" src="export.lua" cache="false" />
+
+	<export type="client" function="playSound" />
+	<export type="client" function="playSound3D" />
+</meta>

@@ -1,0 +1,16 @@
+<meta>
+	<download_priority_group>-100</download_priority_group>
+	
+	<file src="assets/speedo.png" />
+	<file src="assets/strelkaspedo.png" />
+	<file src="assets/fuel.png" />
+	<file src="assets/fuel2.png" />
+	<file src="assets/strelkabenz.png" />
+	<file src="assets/engine.png" />
+	<file src="assets/cruise.png" />
+	<file src="assets/lock.png" />
+	<file src="assets/light.png" />
+
+	<script type="client" src="main.lua" cache="false" />
+
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<download_priority_group>-100</download_priority_group>
+	
+	<!-- CLIENT -->
+	<script type="client" src="main.lua"/>
+	<script type="client" src="vehControl.lua"/>
+</meta>
